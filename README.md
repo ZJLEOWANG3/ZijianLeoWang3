@@ -1,6 +1,6 @@
 # ZijianLeoWang3
 
-<font face="KAI">
+<font face="SimHei">
   
 Hi, This is Zijian Leo Wang. 
 
