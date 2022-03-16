@@ -16,4 +16,8 @@ I am currently a PhD student in Cornell University.
 
 - **Committee**: April Z. Gu, Kilian Q. Weinberger, Haiyuan Yu, Andrea Giometto
 
-- **Research Interests**: Microbial Ecology & Evolution, Stochastic Dynamical Systems, Artificial Intelligence, Large-Scale Constraint-based Reasoning/Optimization.
+- **Research Interests**: 
+  - Microbial Ecology & Evolution
+  - Stochastic Dynamical Systems
+  - Artificial Intelligence
+  - Large-Scale Constraint-based Reasoning/Optimization.
